@@ -22,7 +22,7 @@ EmbVis requires a **data source file** that contains object names and their coor
 
 It should have the following format:
 
-var markers = [ 
+var objectpoints = [ 
 {"title" : "data_object_title_to_be_displayed**","image" : "**image_file**",  "coord" : [**longitude_value**,**latitude_value**], "fill" : "**circle_fill_color**", "stroke" : "**stroke_fill_color**", "category" : "**category_type**"},
 ...
 ]
